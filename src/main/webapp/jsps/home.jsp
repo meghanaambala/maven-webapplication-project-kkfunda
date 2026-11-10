@@ -46,7 +46,7 @@
 <body>
 
 <header>
-     <h1> WELCOME TO DEVOPS COURSE START ON SEP 25 </h1>     
+     <h1> WELCOME TO DEVOPS COURSE START ON SEP 25 !! </h1>     
     <h3>Training | Development | Consulting</h3>
 </header>
 
